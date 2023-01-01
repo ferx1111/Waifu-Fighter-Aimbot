@@ -10,3 +10,4 @@ Lower Cord: 1000|800
 Right Cord: 1250|530
 Left Cord : 660|520
 
+Requires AutoIt Library
